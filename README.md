@@ -5,7 +5,7 @@ Report errors (esp. 4 iOS) and correct them by whatever methods
 
 Keywords
 
-1. Android should be specified, unless iOS is not involved
+1. Device should be specified, unless iOS is not involved
 
 2. Only specify main words to postulate what your error could be
 
@@ -15,7 +15,7 @@ Keywords
 
 핵심어
 
-1. 아이폰이 아니면 무조건 안드로이드 표시
+1. 아이폰이 아니면 무조건 기종 표시
 
 2. 에러의 내용을 유추할 수 있는 주요 단어만 표시
 
