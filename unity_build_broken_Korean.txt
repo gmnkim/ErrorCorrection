@@ -15,10 +15,10 @@ Reference
 http://blog.naver.com/yuc1206/50148334099
 
 Solution
-1. Download i18n.cjk.dll
+1. Download i18n.cjk.dll at DLL folder
 2. Place it at your_project_name/Assets/
 3. Done
 해결방법 
-1. i18n.cjk.dll 다운로드 받기 
+1. DLL 폴더에서 i18n.cjk.dll 다운로드 받기 
 2. Assets 폴더 밑에 넣기 
 3. 끝
