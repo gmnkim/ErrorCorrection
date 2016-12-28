@@ -1,0 +1,24 @@
+# unity_build_broken_Korean
+# 유니티로 빌드했더니 한글이 깨졌어요
+
+Description
+1. No broken Korean in Game view
+2. At mobile mode, received Korean words are broken
+3. No change even though changing Encoding
+증상 
+1. 게임 뷰에서는 한글이 안 깨짐
+2. 아이폰에서 불려온 한글이 무조건 깨짐 
+3. 인코딩을 바꿔도 똑같은 현상 발생
+
+Reference
+참조 사이트
+http://blog.naver.com/yuc1206/50148334099
+
+Solution
+1. Download i18n.cjk.dll
+2. Place it at your_project_name/Assets/
+3. Done
+해결방법 
+1. i18n.cjk.dll 다운로드 받기 
+2. Assets 폴더 밑에 넣기 
+3. 끝
