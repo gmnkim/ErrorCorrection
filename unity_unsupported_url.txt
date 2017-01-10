@@ -1,0 +1,24 @@
+# unity_unsupported_url
+# url이 지원되지않는다면서 물음표만 뜬다
+
+Description
+1. no problem in Game view to load url
+2. no effect at mobile mode
+3. in debugging mode, unsupported url
+증상 
+1. 게임 뷰에서는 정상 작동 
+2. 아이폰에서 작동 불량 
+3. 디버깅에서 url 지원 안된다고 나옴 
+
+Similar symptom reference
+비슷한 증상에 대한 참조 사이트 
+http://answers.unity3d.com/questions/671967/texture-loading-via-wwwtexture-not-loading.html
+
+Solution
+1. Check if url has a string "http://" 
+2. Check if url has blank characters (No blank)
+3. Done 
+해결방법 
+1. url에 "http://"가 있는지 확인 
+2. url에 빈 공간이 있는지 확인 (빈 공간 불가)
+3. 끝 
