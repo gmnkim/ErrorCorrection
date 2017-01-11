@@ -1,5 +1,5 @@
-# unity_unsupported_url
-# url이 지원되지않는다면서 물음표만 뜬다
+# unity_build_unsupported_url
+# build하면 url이 지원되지않는다면서 물음표만 뜬다
 
 Description
 1. no problem in Game view to load url
