@@ -1,5 +1,5 @@
-# unity_image_unresolved
-# 유니티에서 Image가 unresolved로 나와요 
+# unity_editor_image_unresolved
+# 유니티 편집창에서 Image가 unresolved로 나와요 
 
 Description
 1. using UnityEngine.UI;
