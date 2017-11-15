@@ -32,4 +32,4 @@ Note
 2. Should extract mapType to apply selected mapType (simple homework)
 참고
 1. 마커세팅에 지도타입이 포함됨
-2. 지도선택사항을 적용하려면 뽑아내야 되는데 이건 숙wp
+2. 지도선택사항을 적용하려면 뽑아내야 되는데 이건 숙제
