@@ -1,0 +1,35 @@
+# unity_uniwebfree_unavailable
+# 유니웹이 서비스를 안해
+
+Description
+1. CS0619 'Security.PrefetchSocketPolicy(string, int)' is obsolete: 
+  'Security.PrefetchSocketPolicy is no longer supported, since the Unity Web Player is no longer supported by Unity.'
+2. Red Alert
+증상 
+1. 유니티 웹 플레이어를 유니티가 더이사 안 받아줄꺼임 ... 블라블라
+2. 빨간 불이 번쩍번쩍 ... 아 심빡
+
+Object
+1. Use Google Map with url service
+원래 목적
+1. 구글맵을 보고 싶어요
+
+Reference
+참조 사이트
+https://youtu.be/3ExhMNLmQtc
+
+Solution
+1. Download unity_uniwebfree_unavailable.unitypackage at PACK folder
+2. Import and unpack it at Unity
+3. Done
+해결방법 
+1. PACK 폴더에서 unity_uniwebfree_unavailable.unitypackage 다운로드 받기 
+2. Unity에서 풀기 
+3. 끝
+
+Note
+1. MarkerSetting contains mapType
+2. Should extract mapType to apply selected mapType (simple homework)
+참고
+1. 마커세팅에 지도타입이 포함됨
+2. 지도선택사항을 적용하려면 뽑아내야 되는데 이건 숙wp
