@@ -5,7 +5,7 @@ Report errors (esp. 4 iOS) and correct them by whatever methods
 
 Keywords
 
-1. Device should be specified, unless iOS is not involved
+1. Device should be specified, unless iOS is involved
 
 2. Only specify main words to postulate what your error could be
 
